@@ -18,7 +18,7 @@ const Footer = () => {
           <FaInstagram className="icon" />
           <FaLinkedin className="icon" />
         </div>
-        <div className="copyright">Copyright © ekart 2023</div>
+        <div className="copyright">Copyright © ekart 2024</div>
       </div>
     </footer>
   );
